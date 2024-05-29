@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divya Thanigaimani</h1>
 <h3 align="center">A Passionate Dveloper who is trying to figure out stuff!</h3>
 
-- 🔭 I’m currently working on [ESG Project(React,Spring Boot Framework)](https://github.com/DivyaThanigaimani/ESG-BackEnd)
+- 🔭 I’m currently working as a Software Developer Intern in General Motors
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **thanigad@uwindsor.ca**
+- 📫 How to reach me **divyat50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
